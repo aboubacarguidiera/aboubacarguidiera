@@ -1,15 +1,15 @@
 # Hi there, I'm Aboubacar 👋
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Hi+there%2C+I'm+Aboubacar!;I+love+PC+building+and+hardware;I+have+a+passion+for+writing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Hi+there%2C+I'm+Aboubacar!;I+love+reading;I+have+a+passion+for+problem+solving)](https://git.io/typing-svg)
 
 ### 📫 How to reach me:
-[![Website](https://img.shields.io/badge/Website-36BCF7?style=flat&logo=google-chrome&logoColor=white)](https://www.linkedin.com/in/aboubacar-guidiera-571a8a261/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubacar-guidiera-571a8a261/)
+[![Email](https://img.shields.io/badge/Email-ABABAB?style=flat&logo=gmail&logoColor=white)](mailto:aboubacar91guidiera@gmail.com)
 ### 📚 About Me
 - 🏫 Currently studying **Computer Science** at Mohammadia School of Engineers, Rabat Morocco
 - 🖋️ I have a passion for **problem solving**
-- 📖 I am currently learning **JavaScript and Machine Learning**
+- 📖 I am currently learning **Deep Learning**
 
 ### 🔧 Languages and Tools:
 <p align="center">
