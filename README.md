@@ -7,7 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aboubacar-guidiera-571a8a261/)
 [![Email](https://img.shields.io/badge/Email-ABABAB?style=flat&logo=gmail&logoColor=white)](mailto:aboubacar91guidiera@gmail.com)
 ### 📚 About Me
-- 🏫 Currently studying **Computer Science** at Mohammadia School of Engineers, Rabat Morocco
+- 🏫 Student in **Computer Science** at Mohammadia School of Engineers, Rabat Morocco
+- Currently on **Double Degree Program** at Ecole Centrale de Nantes
 - 🖋️ I have a passion for **problem solving**
 - 📖 I am currently learning **Deep Learning**
 
